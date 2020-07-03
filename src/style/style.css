@@ -1,0 +1,48 @@
+.displayBlock{
+    display: block
+}
+
+.displayNone{
+    display: none;
+}
+
+.marginAuto{
+    margin: auto;
+}
+
+.marginAutoTopBot50px{
+    margin: 50px auto;
+}
+
+div#test{
+    display: none;
+}
+
+div.media{
+    align-items: center;
+}
+
+div.media,div.media-body{
+    margin: 0 10px;
+}
+
+li{
+    margin: 10px auto;
+}
+
+li:hover{
+    background-color: #E0E0E0;
+    cursor: pointer;
+}
+
+.list-group-item+.list-group-item{
+    border-top-width: 1px;
+}
+
+h1{
+    margin-top: 20px;
+}
+
+h1, p#text-presentation{
+    text-align: center;
+}
