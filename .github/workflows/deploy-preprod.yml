@@ -7,7 +7,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Init project
+      - name: Mini Youtube project
         uses: actions/checkout@v2
       - name: eslint
         uses: actions/checkout@v1
