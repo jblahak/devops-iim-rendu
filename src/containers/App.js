@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import '../style/style.css'
 
 const API_GET = "https://www.googleapis.com/youtube/v3/";
-const API_KEY = "key=YOUR_KEY_HERE";
+const API_KEY = "key=AIzaSyBUsvL69XdqIlk150bG1y2eEbl_WHv2ZIk";
 const OneVideoParam = "part=snippet,contentDetails";
 const searchVideoParam = "part=snippet&maxResults=25";
 
